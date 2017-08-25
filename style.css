@@ -1,0 +1,39 @@
+.p1{
+  font-size:40px;
+}
+body{
+  color:white;
+  background-color:rgb(83,45,22);
+}
+.mrtop{
+  border: 1px solid rgb(83,45,22) ;
+  margin-top:100px;
+  
+}
+.condition{
+ float:center;
+}
+.widt{
+ 
+  width:250px;
+}
+.temprtr{
+  margin-left:100px;
+  
+}
+.clck{
+  margin-right:20px;
+  
+}
+.corf{
+  margin-left:80px
+}
+.fl{
+  
+  width:20%;
+  float:left;
+}
+.fr{
+  width:20%;
+  float:right;
+}
